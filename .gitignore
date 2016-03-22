@@ -1,0 +1,6 @@
+/build
+/.gradle
+/data
+/log
+*.iml
+target

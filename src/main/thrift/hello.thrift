@@ -1,0 +1,3 @@
+service HelloService{
+    string ping()
+}
